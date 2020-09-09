@@ -15,4 +15,5 @@ dict = {key:value}
 
 # More Details:-
 https://www.geeksforgeeks.org/iterate-over-a-dictionary-in-python/
+
 https://realpython.com/iterate-through-dictionary-python/
