@@ -9,3 +9,6 @@ Until now error messages haven’t been more than mentioned, but if you have tri
 5. User-defined Exceptions:- Programs may name their own exceptions by creating a new exception class 
 6. Defining Clean-up Actions:- Programs may name their own exceptions by creating a new exception class
 7. Predefined Clean-up Actions:- 
+
+# More Details:-
+https://docs.python.org/3/tutorial/errors.html
