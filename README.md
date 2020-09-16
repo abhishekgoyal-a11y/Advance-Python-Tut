@@ -1,5 +1,7 @@
 # Advance-Python-Tut
 
+Here some topics are Intermediate,Begginer level also
+
 1. Erros and Exception
 2. Iterators and Dictionaries
 3. Regular Expression
