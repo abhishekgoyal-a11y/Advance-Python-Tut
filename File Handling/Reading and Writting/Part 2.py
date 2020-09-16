@@ -4,20 +4,20 @@
 
 # it does it effect anything whether we close the file or not
 # But whnen we use in higher-level project it may cause
-with open("file.txt") as f1:   
+with open("files/file.txt") as f1:   
     data = f1.read() 
     print(data)
 
 
 # Same for writting
-with open("file.txt",'w') as f2:   
+with open("files/file.txt",'w') as f2:   
 	f2.write("Hello World!") 
 
 
 ############################################################## SPLIT #######################################################################
 
 
-with open("file.txt", "r") as file: 
+with open("files/file.txt", "r") as file: 
 
 	# "readlines" will split the line ,whenever new line start
     data = file.readlines() 
@@ -36,10 +36,10 @@ with open("file.txt", "r") as file:
 
 # open the file in read mode
 
-with open('file.txt','r') as r:
+with open('files/file.txt','r') as r:
 	data = r.read()
 
 # open the file in write mode
 
-with open('file1.txt','w') as w:
+with open('files/file1.txt','w') as w:
 	w.write(data)

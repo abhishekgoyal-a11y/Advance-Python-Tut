@@ -13,7 +13,7 @@
 
 
 # open the file in read mode
-f1 = open("file.txt",'r')
+f1 = open("files/file.txt",'r')
 
 
 # It will read the whole text 
@@ -39,7 +39,7 @@ f1.close()
 
 # open the same file in write mode
 # it also create the file ,if not exists
-f2 = open("file.txt",'w')
+f2 = open("files/file.txt",'w')
 
 
 # Use Write method for writtng in file
@@ -60,7 +60,7 @@ f2.close()
 # above we have use "w" access mode for writting in file, it will overwrite the text
 # but "a" access mode will add in existing text
 # it also create the file ,if not exists
-f3 = open("file.txt",'a')
+f3 = open("files/file.txt",'a')
 
 
 # Use write method for writtng in file
