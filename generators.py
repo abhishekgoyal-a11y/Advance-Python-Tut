@@ -1,4 +1,6 @@
-# 1. Generator-Function : A generator-function is defined like a normal function, but whenever it needs to generate a value, it does so with the yield keyword rather than return. If the body of a def contains yield, the function automatically becomes a generator function.
+1. Generator-Function : A generator-function is defined like a normal function, but whenever it needs to generate a value, 
+			it does so with the yield keyword rather than return. If the body of a def contains yield,
+			the function automatically becomes a generator function.
 
 
 # Example
@@ -22,7 +24,8 @@ for value in simpleGeneratorFun():
 
 
 
-# 2. Generator-Object : Generator functions return a generator object. Generator objects are used either by calling the next method on the generator object or using the generator object in a “for in” loop (as shown in the above program).
+2. Generator-Object : Generator functions return a generator object. Generator objects are used either by calling the next method
+		      on the generator object or using the generator object in a “for in” loop (as shown in the above program).
 
 # Example 1
 
