@@ -6,8 +6,10 @@ Here some topics are Intermediate,Begginer level also
 2. Iterators and Dictionaries
 3. Regular Expression
 4. File Handling
+5. Generators
 
 
 # Resources
 https://www.fireboxtraining.com/python-training-advanced-class
 https://www.tutorialspoint.com/python/python_files_io.htm
+https://www.geeksforgeeks.org/generators-in-python/
